@@ -59,7 +59,7 @@ CORS_ALLOW_HEADERS = [
     "dnt", "origin", "user-agent", "x-csrftoken", "x-requested-with",
 ]
 
-CORS_ALLOW_ALL_ORIGINS = False   # True solo para pruebas rápidas
+CORS_ALLOW_ALL_ORIGINS = True   # True solo para pruebas rápidas
 CORS_ALLOW_CREDENTIALS = True
 CORS_ALLOW_METHODS = [
     "DELETE",
