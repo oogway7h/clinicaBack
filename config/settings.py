@@ -49,8 +49,8 @@ MIDDLEWARE = [
 
 # CORS
 CORS_ALLOWED_ORIGINS = [
-    "https://clinicavisionwebs.vercel.app",
-    "https://clinicavisionwebs-m7wjvvwr1-carlos-otsubos-projects.vercel.app",
+    "https://clinica-vision-tau.vercel.app",
+    "https://clinica-vision-7md26wzj5-carlos-otsubos-projects.vercel.app",
 
 ]
 
